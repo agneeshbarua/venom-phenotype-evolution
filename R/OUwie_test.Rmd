@@ -36,7 +36,7 @@ dat<-read.csv("./data/BPP_OUwie_ManyOptions_optima.csv",row.names = 1)
 
 Make simmap tree for selective regime. We classified selective regime based on optima obtained from Barua and Mikheyev 2019. Figure in supplementary shows which snakes were clustered into which regime.
 ```{r}
-ad_reg<-setNames(dat[,2],rownames(dat))
+ad_reg<-setNames(dat[,3],rownames(dat))
 
 simmap.tre<-make.simmap(tree, ad_reg, model = "ER")
 
