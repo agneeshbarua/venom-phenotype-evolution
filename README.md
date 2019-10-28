@@ -1,5 +1,3 @@
-This repository contains data and code for the venom-phenotpye-key-innovation project
-
 # Evolution of snake venom toxin expression provides ecological opportunities without species diversification
 
 Agneesh Barua1*, Alexander S. Mikheyev1,2
