@@ -1,6 +1,6 @@
 # Toxin expression in snake venom evolves rapidly with constant shifts in evolutionary rates
 ### DOI: 10.1098/rspb.2020.0613
-Agneesh Barua\uppercase{1*}, Alexander S. Mikheyev\uppercase{1,2}
+Agneesh Barua(1*), Alexander S. Mikheyev(1,2)
 
 1.	Ecology and Evolution Unit, Okinawa Institute of Science and Technology Graduate University, 1919-1 Tancha, Onna-son, Kunigami-gun, Okinawa-ken, Japan 904-0495
 2.	Evolutionary genomics group, Australian National University
